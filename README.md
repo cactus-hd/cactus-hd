@@ -8,9 +8,8 @@ View information on the site : https://amirabbasjr.netlify.app<br>I am a passion
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cactus-hd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cactus-hd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cactus-hd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![]([https://github-readme-stats.vercel.app/api?username=cactus-hd&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://dl.apexgram.ir/106955/photo-2025-12-24_13-35-59.jpg?hash=10a30e))<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cactus-hd&icon=0&color=0)](https://visitcount.itsvg.in)
