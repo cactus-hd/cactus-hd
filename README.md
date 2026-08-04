@@ -10,7 +10,8 @@
 
 
 # 💫 About Me:
-View information on the site : https://amirabbasjr.netlify.app<br>I am a passionate Front-End Developer and Full Stack Python Programmer with over 4 years of experience in web programming and Artificial Intelligence.<br>Based in Rasht, I specialize in building beautiful,<br>functional websites and powerful systems.
+View information on the site : https://pingopin.ir/amirabbas
+I am a passionate Front-End Developer and Android developer with over 4 years of experience in web programming and apps. Based in Rasht, I specialize in building beautiful, functional websites and powerful systems.
 
 
 ## 🌐 Socials:
