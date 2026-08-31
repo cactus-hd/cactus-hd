@@ -2,7 +2,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=224&section=header&reversal=true&text=Hi%20%F0%9F%91%8B,%20I'm%20Amirabbas%20Jarireh&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=224&section=header&reversal=true&text=Hi%20%F0%9F%91%8B,%20I'm%20Amirabbas%20Jarireh&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=&strokeWidth=0&animation=fadeIn" />
 </div>
 
 <br>
