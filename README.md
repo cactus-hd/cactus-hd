@@ -10,7 +10,6 @@
 
 
 # 💫 About Me:
-View information on the site : https://pingopin.ir/amirabbas
 I am a passionate Front-End Developer and Android developer with over 4 years of experience in web programming and apps. Based in Rasht, I specialize in building beautiful, functional websites and powerful systems.
 
 
