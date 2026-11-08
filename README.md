@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/COFFEE-Required-A78BFA?style=for-the-badge&labelColor=171522" />
 
   <br/><br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/amirabbas-jarireh-29b8ba37a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirabbasjarireh8@gmail.com) 
 </div>
 
 ---
