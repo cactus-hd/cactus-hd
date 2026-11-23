@@ -30,7 +30,6 @@ Just a curious human who loves creating things, exploring random ideas, and occa
 
 I believe the internet is a playground, code is a creative tool, and there's always something new worth learning.
 
-**No master plan. Just curiosity and a keyboard.**
 
 <br/>
 
