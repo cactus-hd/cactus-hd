@@ -34,25 +34,6 @@ I believe the internet is a playground, code is a creative tool, and there's alw
 
 <br/>
 
-### `>_ SYSTEM.INFO`
-
-```yaml
-name: Amir
-location: Somewhere on Earth 🌍
-
-currently:
-  - turning ideas into reality
-  - exploring new technologies
-  - learning something unexpected
-
-superpower: overthinking simple solutions
-weakness: "it should only take 5 minutes..."
-favorite_activity: building stuff
-
-coffee: true
-bugs: always
-sleep: questionable
-```
 **LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=kotlin,js,html,css,python,php,rust,&theme=dark" />
