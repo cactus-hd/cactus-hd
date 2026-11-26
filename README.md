@@ -1,19 +1,18 @@
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:09090F,50:242044,100:5541A8&text=Hey,%20I'm%20Amir%20👋&fontSize=43&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=welcome&descAlignY=65&descSize=14" />
+  <img width="100%" src="banner.png" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=A78BFA&center=true&vCenter=true&width=520&lines=curiosity+over+comfort+%E2%9C%A8;building+things%2C+breaking+things%2C+learning.;somewhere+between+an+idea+and+a+commit...;probably+debugging+something+right+now+%F0%9F%90%9B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=52525B&center=true&vCenter=true&width=520&lines=curiosity+over+comfort+%E2%9C%A8;building+things%2C+breaking+things%2C+learning.;somewhere+between+an+idea+and+a+commit...;probably+debugging+something+right+now+%F0%9F%90%9B" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/STATUS-Always%20Curious-8B5CF6?style=for-the-badge&labelColor=171522" />
-  <img src="https://img.shields.io/badge/MOOD-In%20Dev%20Mode-22C55E?style=for-the-badge&labelColor=171522" />
-  <img src="https://img.shields.io/badge/COFFEE-Required-A78BFA?style=for-the-badge&labelColor=171522" />
+  <img src="https://img.shields.io/badge/STATUS-Always%20Curious-FFFFFF?style=for-the-badge&labelColor=18181B" />
+  <img src="https://img.shields.io/badge/MOOD-In%20Dev%20Mode-FFFFFF?style=for-the-badge&labelColor=18181B" />
+  <img src="https://img.shields.io/badge/COFFEE-Required-FFFFFF?style=for-the-badge&labelColor=18181B" />
 
   <br/><br/>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/amirabbas-jarireh-29b8ba37a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirabbasjarireh8@gmail.com) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/amirabbas-jarireh-29b8ba37a) [![About Me](https://img.shields.io/badge/About%20Me-%2318181B.svg?logo=aboutdotme&logoColor=white)](https://amirabbasjr.vercel.app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirabbasjarireh8@gmail.com) 
 </div>
 
 ---
@@ -35,13 +34,13 @@ I believe the internet is a playground, code is a creative tool, and there's alw
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=kotlin,js,html,css,python,php,rust,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,js,html,css,python,php,rust,&theme=light" />
 
 <br/>
 
 **DATABASES & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,linux,figma,xd,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,linux,figma,xd,&theme=light" />
 
 <br/><br/>
 </div>
@@ -56,10 +55,10 @@ Stay curious. Keep creating. Break things (responsibly).
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Amirabbas&style=for-the-badge&color=7C3AED&label=CURIOUS+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=Amirabbas&style=for-the-badge&color=18181B&label=CURIOUS+VISITORS" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5541A8,100:09090F&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:E5E7EB&height=100&section=footer" />
 
 </div>
