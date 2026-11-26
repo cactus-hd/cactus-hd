@@ -34,7 +34,7 @@ I believe the internet is a playground, code is a creative tool, and there's alw
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=kotlin,js,html,css,python,flutter,rust&theme=light" />
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,js,html,css,python,rust&theme=light" />
 
 <br/>
 
