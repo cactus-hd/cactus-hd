@@ -3,7 +3,7 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=52525B&center=true&vCenter=true&width=520&lines=curiosity+over+comfort+%E2%9C%A8;building+things%2C+breaking+things%2C+learning.;somewhere+between+an+idea+and+a+commit...;probably+debugging+something+right+now+%F0%9F%90%9B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=52525B&center=true&vCenter=true&width=520&lines=Hey%2C%20I%27m%20Amir%20%F0%9F%91%8B" />
 
   <br/><br/>
 
